@@ -58,10 +58,38 @@
 - (13) Spectral type of the integrated cluster light
 - (14) Projected ellipticity of isophotes, e = 1-(b/a)
 
+*Krause21.csv*
+- (1) Class is Gobular clusters
+- (2-3) Identifer and Common Name
+- (4) Stellar Mass of the cluster 10^5 solar masses
+- (5) Half-mass radius in parsec
+- (6) Compactness index (dimensionless)
+- (7) Cluster age in Gigayears
+- (8) Metallicity $[Fe/H]$
 
+*vandenBerg_table2.csv*
+- (1-2) Cluster identification number and name 
+- (3) Metallicity $[Fe/H]$
+- (4) Age in Gigayears
+- (5) Age uncertanity 
+- (6) Method - how cluster is detemined (vertical, horizontal, average of the two method)
+- (7) Figures
+- (8) Range - the ranges of ages obtained by the three resarchers DAV, KB and RL when they fitted each cluster 
+- (9) HBtype - horizontal branch morphology/type 
+- (10) Galactocentric distance
+- (11) Absolute integrated V-band magnitude
+- (12) Central escape velocity, in km/s
+- (13) Surface density of stars at the cluster centre
 
 **Potential issues or questions:**  
 - Different varaible naming across CSV files
+- How are we supposed to combine the same measurements? 
+
+**Notes:**
+- VandenBerg gives us age and metallicity
+- Harris I gives us position and galatocentric distance 
+- Harris III gives us kinematics 
+- Krause give us mass/size/compactness and metallicity
 
 ### Coding and Workflow
 **Coding language:** Python
@@ -77,11 +105,15 @@
 
 | Team Member | Task | Due Date |
 |---|---|---|
-| Sarah |  |  |
-| Christian |  |  |
-| Hanna |  |  |
+| Sarah | Clean Data | Monday 5th of October |
+| Christian | Age-Metalicity Analysis | Wednesday 7th of October |
+| Hanna | Kinematics  | Wednesday 7th of October |
+
+**Due Date:** Monday 26th October (Wk 7)  
+**Video Date:** Thursday 22nd of October (Wk 6)  
+**Data Analysis Due Date:** Monday 19th of October (Wk 6)  
 
 ## Next Meeting
-**Date:**  
-**Time:**  
-**Planned focus:**  
+**Date:** Tuesday 6th of October  
+**Time:** 2pm   
+**Planned focus:** Start analysis of cleaned data.   
