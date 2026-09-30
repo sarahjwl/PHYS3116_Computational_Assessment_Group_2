@@ -84,6 +84,7 @@
 **Potential issues or questions:**  
 - Different varaible naming across CSV files
 - How are we supposed to combine the same measurements? 
+    - Both the VandenBerg and Krause datasets contain age and $[Fe/H]$ values, but they are not always identical. Our current plan is to use the VandenBerg ages and metallicities for the primary age–metallicity analysis, since the brief specifically references VandenBerg et al., and then use Krause mainly for the additional mass/size/compactness information and potentially as a comparison dataset. Would you recommend keeping the metallicity measurements from the two catalogues separate like this, rather than averaging them together?
 
 **Notes:**
 - VandenBerg gives us age and metallicity
