@@ -18,9 +18,9 @@
 6. Set next meeting time
 
 ### Project Option
-**Selected option:** Option 1/2
+**Selected option:** Option 1
 
-**Reason for selection:**  
+**Reason for selection:** 
 
 ### Research Question
 **Primary research question:**  
