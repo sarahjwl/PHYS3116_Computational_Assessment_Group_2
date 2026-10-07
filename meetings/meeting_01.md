@@ -46,17 +46,18 @@
 
 *HarrisPartIII.csv*
 - (1) Cluster identification
-- (2) Metallicity $[Fe/H]$
-- (3) Weight of mean metallicity; essentially the number of independent $[Fe/H]$
-	measurements averaged together.  See bibliography for full description
-- (4) Foreground reddening
-- (5) V magnitude level of the horizontal branch (or RR Lyraes)
-- (6) Apparent visual distance modulus
-- (7) Integrated V magnitude of the cluster
-- (8) Absolute visual magnitude (cluster luminosity),  M_V,t = V_t - (m-M)V
-- (9-12) Integrated color indices (uncorrected for reddening)
-- (13) Spectral type of the integrated cluster light
-- (14) Projected ellipticity of isophotes, e = 1-(b/a)
+- (2) Radial Velocity
+- (3) Uncertainty in the radial velocity
+- (4) Radial velocity corrected to the Local Standard of Rest (LSR)
+- (5) Central velocity dispersion
+- (6) Uncertainty in the central velocity dispersion.
+- (7) Concentration parameter (how dense the core is compared to its outer edge)
+- (8) Core radius
+- (9) Half-light radius
+- (10) Central surface brightness in the V (visual) band
+- (11) Central mass density
+- (12) Base-10 logarithm of the core relaxation time
+- (13) Base-to logarithm of the half-mass relaxation time.
 
 *Krause21.csv*
 - (1) Class is Gobular clusters
