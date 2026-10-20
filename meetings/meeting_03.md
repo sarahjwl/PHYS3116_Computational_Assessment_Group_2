@@ -1,8 +1,8 @@
 # PHYS3116 Computational Assessment
 # Meeting 3
 
-**Date:** 7 October 2026 (Wednesday)  
-**Time:** 2:00 pm    
+**Date:** 12 October 2026 (Monday)  
+**Time:** 2:30 pm    
 **Location:** Teams  
 
 ## Attendance
