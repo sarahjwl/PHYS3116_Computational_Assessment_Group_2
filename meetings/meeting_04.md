@@ -30,8 +30,8 @@ The group decided that the slides for the presentation should be completed by Sa
 
 | Team Member | Task |
 |---|---|
-| Christian | Age-metallicity, candidate accreted clusters and implication for formation of the Milky Way slides in presentation. Complete candidates notebook compilation. Make Google Doc for script. |
-| Hanna | Future tests, Dynamics, and Candidate accreted clusters slides in presentation. |
+| Christian | Age-metallicity, candidate accreted clusters and implication for formation of the Milky Way slides in presentation. Complete candidates notebook compilation. Make Google Doc for script. Record video/presentation. |
+| Hanna | Future tests, Dynamics, and Candidate accreted clusters slides in presentation. Record video/presentation. |
 
 ## Next Meeting
 
